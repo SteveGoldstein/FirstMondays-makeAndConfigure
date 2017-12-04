@@ -1,0 +1,4 @@
+bwa:   git clone https://github.com/lh3/bwa.git
+stacks: wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.48.tar.gz
+InStruct: git clone https://github.com/slowkoni/InStruct.git
+jellyfish: https://github.com/gmarcais/Jellyfish/releases/download/v2.2.7/jellyfish-2.2.7.tar.gz
